@@ -1,0 +1,10 @@
+{
+  "short_name": "Yeikon App",
+  "name": "Libro y Asistente de Yeikon",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "display": "standalone",
+  "orientation": "portrait"
+}
